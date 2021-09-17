@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 一个新的开始
 
 You can use the [editor on GitHub](https://github.com/a-good-student/MYHTML/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
